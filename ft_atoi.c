@@ -1,3 +1,6 @@
+// Converts a string containing a number into an integer.
+// Stops reading when a non-digit character is found.
+
 #include <unistd.h>
 #include <stdio.h>
 
