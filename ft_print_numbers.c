@@ -1,3 +1,4 @@
+// Prints all digits from '0' to '9'.
 #include <unistd.h>
 
 void    ft_print_numbers(void)
