@@ -1,3 +1,4 @@
+// Returns the length of a string.
 #include <stdio.h>
 
 int ft_strlen(char *str)
