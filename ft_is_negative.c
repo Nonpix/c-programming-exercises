@@ -1,3 +1,4 @@
+// Prints 'N' if the number is negative, otherwise prints 'P'.
 #include <unistd.h>
 
 void    ft_is_negative(int i)
