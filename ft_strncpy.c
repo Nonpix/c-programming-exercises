@@ -1,3 +1,5 @@
+// Copies up to n characters from src to dest.
+// Fills remaining space with '\0' if necessary.
 #include <unistd.h>
 #include <stdio.h>
 
