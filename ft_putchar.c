@@ -1,3 +1,4 @@
+// Prints a single character.
 #include <unistd.h>
 
 void    ft_putchar(char c)
