@@ -1,3 +1,5 @@
+// Returns 1 if the string contains only uppercase letters (A-Z).
+// Returns 0 otherwise.
 #include <stdio.h>
 
 int ft_str_is_uppercase(char *str)
