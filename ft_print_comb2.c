@@ -1,3 +1,4 @@
+// Prints all possible combinations of two different two-digit numbers in ascending order.
 #include <unistd.h>
 #include <stdio.h>
 
