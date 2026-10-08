@@ -1,3 +1,5 @@
+// Prints an integer using recursion.
+// Handles positive and negative numbers.
 #include <unistd.h>
 
 void    ft_putnbr(int nb)
