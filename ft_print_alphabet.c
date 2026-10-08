@@ -1,3 +1,4 @@
+// Prints the alphabet from 'a' to 'z'.
 #include <unistd.h>
 
 void    ft_print_alphabet(void)
