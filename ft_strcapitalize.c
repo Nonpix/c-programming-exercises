@@ -1,3 +1,5 @@
+// Capitalizes the first letter of each word.
+// Converts other letters to lowercase.
 #include <stdio.h>
 
 char *ft_strcapitalize(char *str)
