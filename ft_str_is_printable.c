@@ -1,5 +1,5 @@
-// Returns 1 if the string contains only uppercase letters (A-Z).
-// Returns 0 otherwise.
+// Returns 1 if all characters are printable ASCII characters.
+// Returns 0 if a non-printable character is found.
 #include <unistd.h>
 #include <stdio.h>
 
