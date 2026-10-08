@@ -1,3 +1,4 @@
+// Converts all uppercase letters in a string to lowercase.
 #include <stdio.h>
 
 char *ft_strlowcase(char *str)
