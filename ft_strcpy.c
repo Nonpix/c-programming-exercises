@@ -1,3 +1,4 @@
+// Copies a string from src to dest and returns dest.
 #include <unistd.h>
 #include <stdio.h>
 
