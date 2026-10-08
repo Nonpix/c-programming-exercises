@@ -1,3 +1,5 @@
+// Returns 1 if the string contains only lowercase letters (a-z).
+// Returns 0 otherwise.
 #include <stdio.h>
 
 int ft_str_is_lowercase(char *str)
