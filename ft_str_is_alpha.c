@@ -1,3 +1,5 @@
+// Returns 1 if the string contains only letters (A-Z, a-z).
+// Returns 0 if another character is found.
 #include <unistd.h>
 #include <stdio.h>
 
