@@ -1,3 +1,5 @@
+// Returns 1 if the string contains only digits (0-9).
+// Returns 0 otherwise.
 #include <unistd.h>
 #include <stdio.h>
 
