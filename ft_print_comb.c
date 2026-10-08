@@ -1,3 +1,5 @@
+// Prints all possible combinations of three different digits in ascending order.
+
 #include <unistd.h>
 
 void    ft_print_comb(void)
